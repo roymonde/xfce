@@ -25,7 +25,7 @@ echo "Installing category Accessories"
 
 #sh AUR/install-caffeine-ng-v*.sh
 #sh AUR/install-conky-lua-archers-v*.sh
-sh AUR/install-cool-retro-term-v*.sh
+#sh AUR/install-cool-retro-term-v*.sh
 #sh AUR/install-discord-v*.sh
 #sh AUR/install-mintstick-git-v*.sh
 sh AUR/install-temps-v*.sh
@@ -33,7 +33,7 @@ sh AUR/install-temps-v*.sh
 echo "Installing category Development"
 
 #sh AUR/install-brackets-v*.sh
-sh AUR/install-sublime-text-v*.sh
+#sh AUR/install-sublime-text-v*.sh
 
 echo "Installing category Education"
 
