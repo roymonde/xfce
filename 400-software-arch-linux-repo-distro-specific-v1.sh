@@ -44,7 +44,7 @@ echo "Installing category System"
 #sudo pacman -S --noconfirm --needed imagemagick
 #sudo pacman -S --noconfirm --needed w3m
 #sudo pacman -S --noconfirm --needed slim
-sudo pacman -S --noconfirm --needed xfce4-notifyd
+#sudo pacman -S --noconfirm --needed xfce4-notifyd
 
 echo "################################################################"
 echo "####    Software from Arch Linux Repository installed     ######"

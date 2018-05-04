@@ -28,12 +28,12 @@ echo "Installing category Accessories"
 #sh AUR/install-cool-retro-term-v*.sh
 #sh AUR/install-discord-v*.sh
 #sh AUR/install-mintstick-git-v*.sh
-sh AUR/install-temps-v*.sh
+#sh AUR/install-temps-v*.sh
 
 echo "Installing category Development"
 
 #sh AUR/install-brackets-v*.sh
-#sh AUR/install-sublime-text-v*.sh
+sh AUR/install-sublime-text-v*.sh
 
 echo "Installing category Education"
 
@@ -43,11 +43,11 @@ echo "Installing category Games"
 
 echo "Installing category Graphics"
 
-sh AUR/install-font-manager-v*.sh
+#sh AUR/install-font-manager-v*.sh
 
 echo "Installing category Internet"
 
-sh AUR/install-dropbox-v*.sh
+#sh AUR/install-dropbox-v*.sh
 #sh AUR/install-insync-v*.sh
 #sh AUR/install-skypeforlinux-stable-bin-v*.sh
 sh AUR/install-google-v*.sh
